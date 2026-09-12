@@ -1,0 +1,13 @@
+[Running] python -u "c:\Users\James Estrada\phyton-practice\lab00_check_estrada.py"
+Python     : 3.14.7
+NumPy      : 2.5.2
+SciPy      : 1.18.0
+Matplotlib : 3.11.1
+
+mean of sin(x) over one period : 0.0
+integral of sin(x) from 0 to pi : 2.0 (exact value 2)
+
+figure written to figures/lab00_check.png
+PLATFORM READY.
+
+[Done] exited with code=0 in 11.679 seconds
